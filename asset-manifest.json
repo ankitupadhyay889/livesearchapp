@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/livesearchapp/static/js/main.4471f7e3.chunk.js",
+    "main.js.map": "/livesearchapp/static/js/main.4471f7e3.chunk.js.map",
+    "runtime-main.js": "/livesearchapp/static/js/runtime-main.7fee7d47.js",
+    "runtime-main.js.map": "/livesearchapp/static/js/runtime-main.7fee7d47.js.map",
+    "static/js/2.8a00892e.chunk.js": "/livesearchapp/static/js/2.8a00892e.chunk.js",
+    "static/js/2.8a00892e.chunk.js.map": "/livesearchapp/static/js/2.8a00892e.chunk.js.map",
+    "index.html": "/livesearchapp/index.html",
+    "precache-manifest.18f7ed8b992c1b0f4b6c5aac9a4cb276.js": "/livesearchapp/precache-manifest.18f7ed8b992c1b0f4b6c5aac9a4cb276.js",
+    "service-worker.js": "/livesearchapp/service-worker.js",
+    "static/js/2.8a00892e.chunk.js.LICENSE.txt": "/livesearchapp/static/js/2.8a00892e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7fee7d47.js",
+    "static/js/2.8a00892e.chunk.js",
+    "static/js/main.4471f7e3.chunk.js"
+  ]
+}
